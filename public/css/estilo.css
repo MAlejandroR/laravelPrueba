@@ -1,0 +1,26 @@
+body{
+    height: 100vh;
+}
+header{
+    height: 15vh;
+    background: khaki;
+    border: darkgreen solid 2px;
+    border-radius: 5px;
+    margin: 10px;
+}
+nav{
+    height: 10vh;
+    background: #718096;
+    border: red solid 1px;
+    border-radius: 10px;
+    padding: 3px;
+}
+main{
+    height: 50vh;
+    background: #cbd5e0;
+}
+footer{
+    height: 10vh;
+    background: #4a5568;
+    color:white;
+}
